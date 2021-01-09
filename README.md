@@ -1,5 +1,13 @@
 # CMSC-22-JAVA-Project
 
+# Table of contents
+
+- [Bank Simulator](#project-title)
+- [Design Patterns](#design pattern)
+- [Best Practices](#Best Practices)
+- [For the Clients](#Client use)
+- [Table of contents](#table-of-contents)
+
 # Bank Simulator
 
    This project is a requirement for our CMSC 22 – Fundamentals of Object-Oriented Programming final project. This incorporates what I have learned in Java including the basic of Java Programming, Best Practices, TDD and especially the Design Patterns. 
@@ -33,11 +41,3 @@
   CIMB Bank
   Account Number - 694325618
   Pin Code       - 3951
-
-# Table of contents
-
-- [Bank Simulator](#project-title)
-- [Design Patterns](#design pattern)
-- [Best Practices](#Best Practices)
-- [For the Clients](#Client use)
-- [Table of contents](#table-of-contents)
