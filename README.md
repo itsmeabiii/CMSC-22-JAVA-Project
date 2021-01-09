@@ -3,9 +3,9 @@
 # Table of contents
 
 - [Bank Simulator](#project-title)
-- [Design Patterns](#design pattern)
-- [Best Practices](#Best Practices)
-- [For the Clients](#Client use)
+- [Design Patterns](#design-pattern)
+- [Best Practices](#Best-Practices)
+- [For the Clients](#Client-use)
 - [Table of contents](#table-of-contents)
 
 # Bank Simulator
