@@ -12,7 +12,7 @@
 
    This project is a requirement for our CMSC 22 – Fundamentals of Object-Oriented Programming final project. This incorporates what I have learned in Java including the basic of Java Programming, Best Practices, TDD and especially the Design Patterns. 
    
-   Lately, I have been obsessed with online shopping but when I stumbled upon a Youtube video about how I should start being careful in managing my accounts and that I should start saving especially I'm in my 20's learning how to manage my account became essential, especially in this time where everything can be done online, from ordering foods and purchasing all kinds of products. The pandemic only heightened the need for these online platforms and online banking made everythings easier. 
+   Lately, I have been obsessed with online shopping but when I stumbled upon a Youtube video about how I should start being careful in managing my accounts and that I should start saving especially I'm in my 20's and learning how to manage my account became essential, especially in this time where everything can be done online, from ordering foods and purchasing all kinds of products. The pandemic only heightened the need for these online platforms and online banking made everythings easier. 
   
   Since I am new to banking especially online banking, this program allows me to access all my accounts without a hassle and do the basic actions like withdrawing, depositing and checking the account balance. Most importantly, this program will help me monitor all my bank's balance and be careful in withdrawing my money. So I can buy, my wants or needs without going overboard or draining my bank accounts.
 
